@@ -1,0 +1,12 @@
+x = int(input('enter x: '))
+y = int(input('enter y: '))
+c = int(input('enter c: '))
+a = int(input('enter a: '))
+
+print(x + y + c + a)
+print(x / y + c * a)
+print(x + y * c - a)
+print(x + y + c + a)
+print(x / y - c * a)
+print(x - y * c - a)
+print(x + y - c * a)
